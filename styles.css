@@ -17,7 +17,7 @@ h1{
 h2{
     font-size: 1.5rem;
     
-    color: #7c7c7c;
+    color: #969696;
 }
 
 main{
@@ -60,7 +60,6 @@ section{
 
     width: fit-content;
     height: 100%;
-
 }
 
 .button{
